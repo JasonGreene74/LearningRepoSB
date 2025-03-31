@@ -1,0 +1,8 @@
+-Created (cloned from GitHub) local repository called LearningRepo and added a file called Repo-file.txt 
+and a file called ScriptCode.js and another file called BasicLayout.html
+I have it open in VScode and terminal running under this text area.
+
+-Next, I'll use the remote repo called LearningRepo that I've already created and push those files from local repo to the remote repo.
+
+-Third, I'll create a local branch called MapleTree.txt then add and commit LeafChangine.js and UMadLogIn.js files.
+-Last, I'll push the local branch to GitHub to create a remote branch.  Then I'll clone my remote repo on my local drive.
